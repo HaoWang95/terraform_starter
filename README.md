@@ -14,6 +14,7 @@
 - terraform plan
   - out
 - terraform apply
+  - auto-approve
 - terraform show
 - terraform output
 - terraform destroy
