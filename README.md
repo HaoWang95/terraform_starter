@@ -15,6 +15,7 @@
   - out
 - terraform apply
   - auto-approve
+  - The `terraform apply` will be effective on root module, under the root module, we can have multiple child modules to help organize the infrastructure. Modules can be nested.
 - terraform show
 - terraform output
 - terraform destroy
